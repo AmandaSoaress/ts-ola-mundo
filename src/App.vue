@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Comentarista/>
+    <Comentarista nome="Cinthia Soares"/>
   </div>
 </template>
 
@@ -10,9 +10,9 @@ import Comentarista from './components/Comentarista.vue';
 
 @Component({
   components: {
-    Comentarista ,
+    Comentarista,
   },
 })
 export default class App extends Vue {}
-</script>
 
+</script>
