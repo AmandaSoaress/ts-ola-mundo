@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![preview](/src/assets/preview.png)
+![preview](src/assets/Preview.png)
 
