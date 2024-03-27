@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Comentarista nome="Cinthia Soares"/>
+    <Comentarista nome="Amanda Soares"/>
   </div>
 </template>
 
